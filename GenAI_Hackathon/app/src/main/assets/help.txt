@@ -1,0 +1,13 @@
+Hi! This is the Heartlight assistant!
+
+Want to make your life more convenient? Want an cyber-eye to help you see?
+
+How-to-guide:
+Launching the App: Open the Accessibility App on your device.
+Activating Voice Control: Long-press the screen to activate the microphone. This gesture signals the app to listen for voice commands.
+Giving Commands: Clearly state your destination or intention. For example, you can say:
+"I want to go to the convenience store."
+"Take me to school."
+"I need to buy something at the mall."
+Receiving Feedback: As you navigate, listen for auditory cues from the app. It will inform you of obstacles, changes in terrain, and other critical information about your environment.
+Ending the Session: When you are finished using the app or wish to stop the service, simply say "stop" to deactivate the service. The assistant will prepare itself to offer help again!
